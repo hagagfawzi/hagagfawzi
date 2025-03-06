@@ -15,7 +15,7 @@
 ## 🚀 About Me  
 💡 Passionate about creating intelligent systems and solving real-world problems through AI, ML, and Data Science.  
 🎓 Final-year student at **Benha University (AI Department)**  
-🌍 From **Qalyoub, Qalyubia, Egypt**  
+🌍 From **Shibin El-Qanater, Qalyubia, Egypt**  
 
 ---
 
